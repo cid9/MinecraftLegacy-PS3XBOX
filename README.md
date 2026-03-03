@@ -2,10 +2,10 @@
 
 ## 📜 Prologue
 
-In the beginning of time, there was Mojang, and there was 4J.
+In the beginning of time, there was Mojang, and there was 4J.  
 Together, they shaped blocky worlds and quiet legends — one update at a time.
 
-Then everything changed when the Fire Nation attacked.
+Then everything changed when the Fire Nation attacked.  
 Microsoft arrived… and the realm entered a new age.
 
 An age of... questionable decisions.
@@ -18,10 +18,10 @@ In the legacy of all that once was, this repository contains:
 
 > The source code for Minecraft on PlayStation 3.
 
-Is it perfect?
+Is it perfect?  
 No.
 
-Is it good?
+Is it good?  
 Also no.
 
 But it is ours.
@@ -32,9 +32,9 @@ But it is ours.
 
 This codebase is:
 
-* Old
-* Messy
-* Held together by hope and legacy constraints
+- Old  
+- Messy  
+- Held together by hope and legacy constraints  
 
 And yet…
 
@@ -44,4 +44,4 @@ And yet…
 
 ## 👤 Author
 
-* Anonymous Developer
+- Anonymous Developer
